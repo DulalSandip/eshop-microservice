@@ -42,3 +42,9 @@ Thumbs.db
 .nx/workspace-data
 
 test-output
+
+/generated/prisma
+
+# Next.js
+.next
+out
